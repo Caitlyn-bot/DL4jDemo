@@ -29,7 +29,8 @@
         <profile>
             <id>cpu</id>
             <properties>
-                <cpu-dl4j.version>1.0.0-M2.1</cpu-dl4j.version>
+                <cpu-dl4j.version>1.0.0-beta3</cpu-dl4j.version>
+                <bytedeco.version>1.4.4</bytedeco.version>
 <!--                <cpu-dl4j.version>1.0.0-M2.1</cpu-dl4j.version>-->
             </properties>
             <dependencies>
@@ -48,6 +49,28 @@
                     <artifactId>datavec-api</artifactId>
                     <version>${dl4j.version}</version>
                 </dependency>
+                <dependency>
+                    <groupId>org.datavec</groupId>
+                    <artifactId>datavec-data-codec</artifactId>
+                    <version>${dl4j.version}</version>
+                </dependency>
+                <!--  You need the below dependency to use LocalTransformExecutor-->
+                <dependency>
+                    <groupId>org.datavec</groupId>
+                    <artifactId>datavec-local</artifactId>
+                    <version>${dl4j.version}</version>
+                </dependency>
+                <dependency>
+                    <groupId>org.bytedeco</groupId>
+                    <artifactId>javacv-platform</artifactId>
+                    <version>${bytedeco.version}</version>
+                </dependency>
+                <dependency>
+                    <groupId>org.bytedeco</groupId>
+                    <artifactId>javacpp</artifactId>
+                    <version>${bytedeco.version}</version>
+                </dependency>
+
             </dependencies>
         </profile>
         <profile>

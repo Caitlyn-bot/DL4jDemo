@@ -1,0 +1,100 @@
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 42, boot = 13, init = 28, finish = 1
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 40, boot = 10, init = 29, finish = 1
+17/06/09 20:11:09 INFO executor.Executor: Finished task 11.0 in stage 27.0 (TID 1251). 2402 bytes result sent to driver
+17/06/09 20:11:09 INFO executor.Executor: Finished task 12.0 in stage 27.0 (TID 1252). 2486 bytes result sent to driver
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 41, boot = 11, init = 29, finish = 1
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_15 locally
+17/06/09 20:11:09 INFO executor.Executor: Finished task 14.0 in stage 27.0 (TID 1254). 2404 bytes result sent to driver
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1256
+17/06/09 20:11:09 INFO executor.Executor: Running task 16.0 in stage 27.0 (TID 1256)
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1257
+17/06/09 20:11:09 INFO executor.Executor: Finished task 13.0 in stage 27.0 (TID 1253). 2522 bytes result sent to driver
+17/06/09 20:11:09 INFO executor.Executor: Running task 17.0 in stage 27.0 (TID 1257)
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1258
+17/06/09 20:11:09 INFO executor.Executor: Running task 18.0 in stage 27.0 (TID 1258)
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1259
+17/06/09 20:11:09 INFO executor.Executor: Running task 19.0 in stage 27.0 (TID 1259)
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_16 locally
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_17 locally
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_19 locally
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_18 locally
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 42, boot = 19, init = 22, finish = 1
+17/06/09 20:11:09 INFO executor.Executor: Finished task 15.0 in stage 27.0 (TID 1255). 2523 bytes result sent to driver
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 39, boot = 15, init = 24, finish = 0
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1260
+17/06/09 20:11:09 INFO executor.Executor: Running task 20.0 in stage 27.0 (TID 1260)
+17/06/09 20:11:09 INFO executor.Executor: Finished task 16.0 in stage 27.0 (TID 1256). 2171 bytes result sent to driver
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 40, boot = 14, init = 26, finish = 0
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 39, boot = 13, init = 25, finish = 1
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_20 locally
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1261
+17/06/09 20:11:09 INFO executor.Executor: Running task 21.0 in stage 27.0 (TID 1261)
+17/06/09 20:11:09 INFO executor.Executor: Finished task 19.0 in stage 27.0 (TID 1259). 2517 bytes result sent to driver
+17/06/09 20:11:09 INFO executor.Executor: Finished task 17.0 in stage 27.0 (TID 1257). 2128 bytes result sent to driver
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 42, boot = 16, init = 25, finish = 1
+17/06/09 20:11:09 INFO executor.Executor: Finished task 18.0 in stage 27.0 (TID 1258). 2349 bytes result sent to driver
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1262
+17/06/09 20:11:09 INFO executor.Executor: Running task 22.0 in stage 27.0 (TID 1262)
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1263
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_21 locally
+17/06/09 20:11:09 INFO executor.Executor: Running task 23.0 in stage 27.0 (TID 1263)
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1264
+17/06/09 20:11:09 INFO executor.Executor: Running task 24.0 in stage 27.0 (TID 1264)
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_22 locally
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_24 locally
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_23 locally
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 40, boot = 17, init = 22, finish = 1
+17/06/09 20:11:09 INFO executor.Executor: Finished task 20.0 in stage 27.0 (TID 1260). 2355 bytes result sent to driver
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 41, boot = 19, init = 21, finish = 1
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1265
+17/06/09 20:11:09 INFO executor.Executor: Running task 25.0 in stage 27.0 (TID 1265)
+17/06/09 20:11:09 INFO executor.Executor: Finished task 21.0 in stage 27.0 (TID 1261). 2486 bytes result sent to driver
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 41, boot = 14, init = 25, finish = 2
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 41, boot = 11, init = 29, finish = 1
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1266
+17/06/09 20:11:09 INFO executor.Executor: Running task 26.0 in stage 27.0 (TID 1266)
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 41, boot = 19, init = 21, finish = 1
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_25 locally
+17/06/09 20:11:09 INFO executor.Executor: Finished task 22.0 in stage 27.0 (TID 1262). 2171 bytes result sent to driver
+17/06/09 20:11:09 INFO executor.Executor: Finished task 24.0 in stage 27.0 (TID 1264). 2592 bytes result sent to driver
+17/06/09 20:11:09 INFO executor.Executor: Finished task 23.0 in stage 27.0 (TID 1263). 2385 bytes result sent to driver
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_26 locally
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1267
+17/06/09 20:11:09 INFO executor.Executor: Running task 27.0 in stage 27.0 (TID 1267)
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1268
+17/06/09 20:11:09 INFO executor.Executor: Running task 28.0 in stage 27.0 (TID 1268)
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1269
+17/06/09 20:11:09 INFO executor.Executor: Running task 29.0 in stage 27.0 (TID 1269)
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_27 locally
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_28 locally
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_29 locally
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 42, boot = 14, init = 27, finish = 1
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 41, boot = 35, init = 5, finish = 1
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 41, boot = 34, init = 6, finish = 1
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 42, boot = 34, init = 7, finish = 1
+17/06/09 20:11:09 INFO executor.Executor: Finished task 27.0 in stage 27.0 (TID 1267). 2182 bytes result sent to driver
+17/06/09 20:11:09 INFO executor.Executor: Finished task 28.0 in stage 27.0 (TID 1268). 2349 bytes result sent to driver
+17/06/09 20:11:09 INFO executor.Executor: Finished task 26.0 in stage 27.0 (TID 1266). 2267 bytes result sent to driver
+17/06/09 20:11:09 INFO executor.Executor: Finished task 25.0 in stage 27.0 (TID 1265). 2355 bytes result sent to driver
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1270
+17/06/09 20:11:09 INFO executor.Executor: Running task 30.0 in stage 27.0 (TID 1270)
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1271
+17/06/09 20:11:09 INFO executor.Executor: Running task 31.0 in stage 27.0 (TID 1271)
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1272
+17/06/09 20:11:09 INFO executor.Executor: Running task 32.0 in stage 27.0 (TID 1272)
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1273
+17/06/09 20:11:09 INFO executor.Executor: Running task 33.0 in stage 27.0 (TID 1273)
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_31 locally
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_32 locally
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_33 locally
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_30 locally
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 108, boot = 28, init = 79, finish = 1
+17/06/09 20:11:09 INFO executor.Executor: Finished task 29.0 in stage 27.0 (TID 1269). 2349 bytes result sent to driver
+17/06/09 20:11:09 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 1274
+17/06/09 20:11:09 INFO executor.Executor: Running task 34.0 in stage 27.0 (TID 1274)
+17/06/09 20:11:09 INFO storage.BlockManager: Found block rdd_42_34 locally
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 40, boot = -27, init = 66, finish = 1
+17/06/09 20:11:09 INFO executor.Executor: Finished task 31.0 in stage 27.0 (TID 1271). 2128 bytes result sent to driver
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 42, boot = -28, init = 69, finish = 1
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 41, boot = -24, init = 64, finish = 1
+17/06/09 20:11:09 INFO python.PythonRunner: Times: total = 41, boot = -15, init = 55, finish = 1
